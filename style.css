@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200;300;400&display=swap');
 
 :root {
-    --primary-color: rgb(248, 110, 110);
-    --primary-variant: #f04a4a;
+    --primary-color: rgb(255, 141, 141);
+    --primary-variant: #ff7b7b;
     --secondary-color: #1b9999;
     --on-primary: rgb(250, 250, 250);
     --on-background: rgb(66, 66, 66);
@@ -13,7 +13,7 @@
 }
 
 [data-theme="dark"] {
-    --primary-color: rgb(150, 65, 255);
+    --primary-color: rgb(133, 2, 255);
     --primary-variant: #6c63ff;
     --secondary-color: #03dac5;
     --on-primary: #000;
